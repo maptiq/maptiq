@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: MaptIQ Consulting Kft.
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
+description: A MaptIQ Consulting Kft. egy 2019-ben indult, dinamikusan fejlődő startup vállalkozás. A cég alapítói nagy tapasztalattal rendelkeznek térinformatikai nyilvántartó-, elemzőrendszerek fejlesztésében és ennek határterületein, mint a kartográfia, távérzékelés, adattárházak.
+intro_image: "images/illustrations/pin_map.svg"
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# MaptIQ - Élő adatok
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+ A MaptIQ Consulting Kft. egy 2019-ben indult, dinamikusan fejlődő startup vállalkozás. A cég alapítói nagy tapasztalattal rendelkeznek térinformatikai nyilvántartó-, elemzőrendszerek fejlesztésében és ennek határterületein, mint a kartográfia, távérzékelés, adattárházak.

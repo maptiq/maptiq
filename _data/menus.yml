@@ -1,21 +1,21 @@
 main:
-  - name: "Services"
+  - name: "Szolgáltatások"
     url: "/services/"
     weight: 2
-  - name: "Team"
+  - name: "Csapatunk"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "Rólunk"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "Kapcsolat"
     url: "/contact/"
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Főoldal"
     url: "/"
     weight: 1
-  - name: "Contact"
+  - name: "Kapcsolat"
     url: "/contact/"
     weight: 2
