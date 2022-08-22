@@ -4,6 +4,7 @@ date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2
 layout: service
+published: false
 ---
 
 A MaptIQ SurvIOT „okos” deformáció- és mozgásmonitoring megoldást kínál nagy léptékű mérnöki projektek számára. A platform alapvető értékei a rugalmas szenzor integráció, a szakértő előfeldolgozás és szűrés és az építőkocka-szerű saját hardver megoldás. A SurvIOT részletes és tiszta képet ad a folyamatok biztonságáról a mérnökök és üzemeltetők számára.
